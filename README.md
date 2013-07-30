@@ -2,10 +2,13 @@
 #               New York City Subway Fares Data			#
 #-------------------------------------------------------#
 
-PROBLEM: Listing of a few big data projects that I have worked on recently:
+PROBLEM: New York City Subway data
 
 
 
-SOLUTION: Please look at README and python files within each folder for more details
+SOLUTION: Please look at
 
+IMPLEMENTATION: Step 1 - 
+				Step 2 -
+				Step 3 -  
 #-------------------------------------------------------#
